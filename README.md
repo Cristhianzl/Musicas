@@ -1,2 +1,2 @@
-# livro-receitas
-Livro de receitas!
+# Livro de Receitas do Ursao
+Receitas Italianas!
