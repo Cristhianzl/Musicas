@@ -1,2 +1,2 @@
-# Livro de Receitas do Ursao
-Receitas Italianas!
+# Letra das músicas do Ursao
+Só música boa!
